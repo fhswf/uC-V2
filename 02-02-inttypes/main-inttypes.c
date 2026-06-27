@@ -21,8 +21,8 @@ int main()
 	uint8_t a = 100;
 
 	printf("uint8_t a = %u\n", a);
-//	scanf("%u",&a);  // richtig %hhu
-	scanf("%hhu",&a);
+	scanf("%u",&a);  // richtig %hhu
+//	scanf("%hhu",&a);
 
 	printf("a = %" PRIu8 "\n", a);   // richtig PRIu8
 	scanf("%" SCNu8, &a); 			 // richtig SCNu8

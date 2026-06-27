@@ -14,12 +14,6 @@
 
 #include "max.h"
 
-void blah()
-{
-	int a;
-	a=max(5,3);
-}
-
 short max(short x, short y)
 {
 	int m;

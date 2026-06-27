@@ -13,6 +13,7 @@
 #include <stdio.h>
 
 #include "max.h"
+#include "max.h"
 
 // Hauptroutine
 int main()

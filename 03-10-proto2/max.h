@@ -10,11 +10,11 @@
  *      Author: Tobias Ellermeyer
  */
 
-#ifndef MAX_H_
-#define MAX_H_
+//#ifndef MAX_H_
+//#define MAX_H_
 
 // Prototyp
 short max(short,short);
 
 
-#endif /* MAX_H_ */
+//#endif /* MAX_H_ */
